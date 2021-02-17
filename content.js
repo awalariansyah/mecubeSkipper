@@ -31,4 +31,4 @@ setInterval( function(){
 			iklanBanner[i].click();
 		}
 	}
-}, 500)
+}, 200)
