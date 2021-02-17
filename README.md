@@ -1,9 +1,9 @@
 # Mecube Skipper
 Chrome Extension for Youtube Ads
 
-You != Me
-Tube != Cube
-Youtube != Mecube
+You != Me; 
+Tube != Cube; 
+Youtube != Mecube;
 
 # Feature
 1. Mute Unskippable Ads
