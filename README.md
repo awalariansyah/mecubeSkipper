@@ -5,7 +5,7 @@ You != Me;
 Tube != Cube; 
 Youtube != Mecube;
 
-# Feature
+# Features
 1. Mute Unskippable Ads
 2. Instantly Skip Skippable Ads
 3. Instantly Close Banner Ads
