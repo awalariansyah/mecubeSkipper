@@ -20,6 +20,6 @@ Youtube != Mecube;
 
 # Custom Change
 
-If you feel like the detection is not fast enough, you can go to content.js, and lower the interval value (currently 500).
+If you feel like the detection is not fast enough, you can go to content.js, and lower the interval value (currently 200).
 
 
