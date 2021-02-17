@@ -9,6 +9,7 @@ Youtube != Mecube;
 1. Mute Unskippable Ads
 2. Instantly Skip Skippable Ads
 3. Instantly Close Banner Ads
+4. Simple & Lightweight
 
 
 # Installation
